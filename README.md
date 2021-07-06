@@ -1,1 +1,2 @@
-# This is my Java test bed
+This is my Java test bed.
+
